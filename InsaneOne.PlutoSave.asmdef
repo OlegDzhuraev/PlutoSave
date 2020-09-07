@@ -1,0 +1,16 @@
+{
+    "name": "InsaneOne.PlutoSave",
+    "references": [
+        "GUID:20f61b99a18cf83488884339898131ac",
+        "GUID:8a7bbcb7000134c49aceff828a615fea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

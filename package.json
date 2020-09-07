@@ -1,0 +1,19 @@
+{
+    "name": "com.insaneone.plutosave",
+    "author": "InsaneOne",
+    "displayName": "Pluto Save",
+    "description": "Pluto Save is a save system by InsaneOne based on Pluto ECL for Unity (C#). MIT License.",
+    "unity": "2019.1",
+    "version": "0.0.1",
+    "keywords": [
+        "plutoecl",
+        "ecl",
+        "plutosave",
+        "insaneone"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/InsaneOneHub/PlutoSave.git"
+    }
+}
