@@ -27,5 +27,8 @@ This is ScriptableObject, which contains info about all Prefabs which can be sav
 
 More info will be added soon.
 
+## Examples
+You can find example in **Example** folder, but it is not finished in actual version, just shows how to setup AssetMap, Saver and Entities to work with PlutoSave correctly.
+
 ## License
 MIT License.
