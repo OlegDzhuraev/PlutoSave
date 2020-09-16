@@ -23,6 +23,9 @@ namespace PlutoSave
         {
             for (var i = 0; i < Map.Count; i++)
                 Map[i].UpdateId();
+            
+            Debug.Log("[Pluto Save] Saveable prefabs IDs was updated.");
+
         }
     }
 

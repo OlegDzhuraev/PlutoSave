@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: AssetMapExample
   m_EditorClassIdentifier: 
   Map:
-  - Id: 0ddfe09e-d050-446e-9aed-38902a60f55a
+  - Id: 7762ba7b-111a-4ce6-bc4a-5bdc59b0698e
+    Prefab: {fileID: 7975442229905739902, guid: 6f3c83dae64e6c94eb4a2c70db98979e, type: 3}
+  - Id: cb8341f5-d33d-433c-ae58-42e4f42deeb3
     Prefab: {fileID: 7975442229905739902, guid: 674541993a3c1614aa33cf18a5abb879, type: 3}

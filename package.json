@@ -4,7 +4,7 @@
     "displayName": "Pluto Save",
     "description": "Pluto Save is a save system by InsaneOne based on Pluto ECL for Unity (C#). MIT License.",
     "unity": "2019.1",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "keywords": [
         "plutoecl",
         "ecl",

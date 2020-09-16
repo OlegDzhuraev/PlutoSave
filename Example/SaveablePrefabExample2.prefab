@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 2864312256315479411}
   - component: {fileID: 8434034064081631363}
   - component: {fileID: 1936773727193256851}
-  - component: {fileID: 8535879644061860449}
+  - component: {fileID: -230948073859105060}
   m_Layer: 0
-  m_Name: SaveablePrefabExample
+  m_Name: SaveablePrefabExample2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -109,7 +109,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!114 &8535879644061860449
+--- !u!114 &-230948073859105060
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -121,5 +121,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 336377905628d2a4a9d3dc66f002a746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SaveId: d5eb2c14-cd00-408c-afda-82e71b518184
-  PrefabId: cb8341f5-d33d-433c-ae58-42e4f42deeb3
+  SaveId: 7236f717-c1d4-477a-a13d-78e1cdb6aeb0
+  PrefabId: 7762ba7b-111a-4ce6-bc4a-5bdc59b0698e
