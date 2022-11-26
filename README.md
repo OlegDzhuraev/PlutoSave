@@ -8,12 +8,12 @@ Save system for **Pluto ECL** in Unity. Allows to save world state easily.
 In future updates I want to add support of custom serialization, but now only JSON supported.
 
 ## How to install
-You can install PlutoSave via Unity Package Manager as git package from github repository: 
+You can install PlutoSave via Unity Package Manager as a git package from Github repository: 
 ```
 https://github.com/OlegDzhuraev/PlutoSave.git
 ```
 
-You also can download it directly from github and place into Assets folder.
+You also can download it directly from Github and place into the Assets folder.
 
 ## What will be saved?
 Saved only objects, which have Prefab. Also required PlutoECL.Entity and Saveable components.
